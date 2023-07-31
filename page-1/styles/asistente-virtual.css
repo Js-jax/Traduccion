@@ -1,0 +1,854 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 192rem;
+}
+
+.asistente-virtual-g3Z {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7f5f9;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ {
+  box-sizing: border-box;
+  padding: 0rem 0rem 19.1rem 17.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .item--XM1 {
+  margin-bottom: 22.4rem;
+  width: 100%;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .item--XM1 .auto-group-3yif-4rj {
+  box-sizing: border-box;
+  /* padding: 9.422rem 0rem 0rem 0rem; */
+  width: 100%;
+  height: 84.8222rem;
+  display: flex;
+  align-items: flex-end;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .item--XM1 .auto-group-3yif-4rj .auto-group-8ewr-ZHh {
+  margin: 3.2rem 4.798rem 1.6rem 0rem;
+  height: calc(100% - 4.8rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .item--XM1 .auto-group-3yif-4rj .auto-group-8ewr-ZHh .item--FwD {
+  margin-bottom: 23.3rem;
+  width: 21.4rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .item--XM1 .auto-group-3yif-4rj .auto-group-8ewr-ZHh .obtenga-la-ayuda-que-necesita-para-liberar-el-potencial-de-su-firma-apyese-en-profesionales-que-le-brindar-soporte-en-su-operacin-Zwu {
+  margin-bottom: 1.2rem;
+  max-width: 60.1rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.125;
+  color: #191b21;
+  font-family: Arimo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .item--XM1 .auto-group-3yif-4rj .auto-group-8ewr-ZHh .group-34-hq9 {
+  box-sizing: border-box;
+  padding: 0.8rem 3.5rem 0.9rem 3.5rem;
+  width: 55rem;
+  height: 7.7rem;
+  background-color: #1cc7d7;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .item--XM1 .auto-group-3yif-4rj .auto-group-8ewr-ZHh .group-34-hq9 .del-campo-esta-aqui-para-apoyarte-con-el-talento-comienza-con-tu-asistente-hoy-DYb {
+  max-width: 48rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .item--XM1 .auto-group-3yif-4rj .item--gSB {
+  width: 109.802rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .item--XM1 .auto-group-3yif-4rj .item--gSB .auto-group-2qq3-31q {
+  width: 100%;
+  height: 84.8222rem;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* background-image: url('../assets/rectangle-4281.png'); */
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .item--XM1 .auto-group-3yif-4rj .item--gSB .auto-group-2qq3-31q .asisten-legal-miX {
+  width: 7rem;
+  height: 4.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 68.952rem;
+  top: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.04rem;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .item--XM1 .auto-group-3yif-4rj .item--gSB .auto-group-2qq3-31q .traduccion-documentos-28f {
+  width: 11.8rem;
+  height: 4.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 50.902rem;
+  top: 4rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.04rem;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .item--XM1 .auto-group-3yif-4rj .item--gSB .auto-group-2qq3-31q .inicio-HaP {
+  width: 5rem;
+  height: 2.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 38.802rem;
+  top: 5.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.04rem;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+
+
+/*  */
+
+
+
+
+
+/*  */
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .item--XM1 .auto-group-3yif-4rj .item--gSB .auto-group-2qq3-31q .recepcionista-legal-mVZ {
+  width: 13.1rem;
+  height: 4.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 82.252rem;
+  top: 4rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.04rem;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .item--XM1 .auto-group-3yif-4rj .item--gSB .auto-group-2qq3-31q .undrawactivesupportreb7sj-1-4jZ {
+  width: 69.4rem;
+  height: 56.6rem;
+  position: absolute;
+  left: 31.002rem;
+  top: 18.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .group-35-YPq {
+  margin: 0rem 17.3rem 19.7rem 0rem;
+  width: 157.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .group-35-YPq .estas-son-algunas-de-las-tareas-que-puede-realizar-su-asistente-virtual--fDZ {
+  margin-bottom: 7.8rem;
+  max-width: 82.5rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .group-35-YPq .auto-group-f527-kF1 {
+  margin: 0rem 21.9rem 7.2rem 0rem;
+  width: calc(100% - 21.9rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .group-35-YPq .auto-group-f527-kF1 .auto-group-bmqj-4mV {
+  margin-right: 15.3008rem;
+  width: 77.7rem;
+  row-gap: 2.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .group-35-YPq .auto-group-f527-kF1 .auto-group-bmqj-4mV .auto-group-nug3-Br7 {
+  width: 100%;
+  height: 10rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0 #07a9cf;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .group-35-YPq .auto-group-f527-kF1 .auto-group-bmqj-4mV .auto-group-xtom-cRd {
+  width: 100%;
+  height: 10rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0 #07a9cf;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .group-35-YPq .auto-group-f527-kF1 .auto-group-bmqj-4mV .auto-group-ydc3-feo {
+  width: 100%;
+  height: 10rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.5428571429;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0 #07a9cf;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .group-35-YPq .auto-group-f527-kF1 .undrawdiaryre4jpc-1-7mh {
+  width: 42.4992rem;
+  height: 39.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .group-35-YPq .auto-group-fr4o-2dm {
+  margin-left: 17.6rem;
+  width: calc(100% - 17.6rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .group-35-YPq .auto-group-fr4o-2dm .undrawmailboxredvds-1-9iP {
+  margin: 0rem 19.6rem 0.019rem 0rem;
+  width: 42.4999rem;
+  height: 36.3812rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .group-35-YPq .auto-group-fr4o-2dm .auto-group-vkab-EE3 {
+  width: 77.7rem;
+  row-gap: 2.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .group-35-YPq .auto-group-fr4o-2dm .auto-group-vkab-EE3 .auto-group-bgzd-mUs {
+  width: 100%;
+  height: 10rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.5428571429;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0 #07a9cf;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .group-35-YPq .auto-group-fr4o-2dm .auto-group-vkab-EE3 .auto-group-bf6w-Drf {
+  width: 100%;
+  height: 10rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.5428571429;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0 #07a9cf;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .group-35-YPq .auto-group-fr4o-2dm .auto-group-vkab-EE3 .auto-group-xou9-5ts {
+  width: 100%;
+  height: 10rem;
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1.5882352941;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0 #07a9cf;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-zdq9-hDZ .escuchamos-entendemos-ofrecemos-servicio-adaptado-a-tus-necesidades-9tj {
+  margin-right: 17.4rem;
+  max-width: 89.1rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK {
+  width: 100%;
+  height: 148.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .subtract-ngo {
+  width: 192rem;
+  height: 110.9rem;
+  position: absolute;
+  left: 0;
+  top: 37.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .rectangle-10-X8b {
+  width: 192rem;
+  height: 65.5rem;
+  position: absolute;
+  left: 0;
+  top: 81.8rem;
+  background-color: #10297d;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .first-connect-your-metamask-or-trustwallet-to-the-connect-wallet-on-the-homepage-eDD {
+  width: 65.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 62.3rem;
+  top: 72.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Abyssinica SIL, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .chevron-right-ic-WWK {
+  opacity: 0.6;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 93.8rem;
+  top: 75.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .chevron-right-ic-S95 {
+  opacity: 0.6;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 94.8rem;
+  top: 80.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .then-send-minimum-of-01-bnb-or-maximum-of-10-bnb-to-the-presale-wallet-ZjV {
+  width: 58.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 65.8rem;
+  top: 78.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Abyssinica SIL, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-37-RFu {
+  width: 161.8667rem;
+  height: 22.4151rem;
+  position: absolute;
+  left: 15.1rem;
+  top: 67.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-36-Z7D {
+  width: 160.9rem;
+  height: 48.6rem;
+  position: absolute;
+  left: 15.8rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-36-Z7D .queremos-conocer-tus-necesidades-y-objetivos-para-poder-disear-un-plan-a-tu-medida-contctanos-hoy-mismo-tvB {
+  margin: 4.4rem 6.2rem 0rem 0rem;
+  max-width: 61.7rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-36-Z7D .auto-group-zb1y-xf9 {
+  width: 93rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-36-Z7D .auto-group-zb1y-xf9 .ellipse-29-WAs {
+  width: 19.2rem;
+  height: 19.2rem;
+  position: absolute;
+  left: 36.9rem;
+  top: 5.6rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f2f2f2;
+  border-radius: 9.6rem;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-36-Z7D .auto-group-zb1y-xf9 .rectangle-653-QX9 {
+  width: 93rem;
+  height: 48.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: dashed 0.5rem #000000;
+  box-sizing: border-box;
+  border-radius: 1rem;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-36-Z7D .auto-group-zb1y-xf9 .hola-soy-el-asistente-virtual-y-estoy-aqu-para-entender-tus-necesidades-y-ofrecerte-un-plan-que-se-ajuste-especficamente-a-ellas-puedo-responder-preguntas-proporcionarte-informacin-ayudarte-a-resolver-problemas-o-cualquier-otra-cosa-en-la-que-pueda-asistirte-L9u {
+  width: 83.7rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 29.4rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Arimo, 'Source Sans Pro';
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-36-Z7D .auto-group-zb1y-xf9 .group-33-85m {
+  width: 14.5rem;
+  height: 10.7407rem;
+  position: absolute;
+  left: 39.2rem;
+  top: 9.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-36-Z7D .auto-group-zb1y-xf9 .group-33-85m .auto-group-yv2f-4VD {
+  margin: 0rem 2.148rem 0.716rem 2.148rem;
+  width: calc(100% - 4.2963rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-36-Z7D .auto-group-zb1y-xf9 .group-33-85m .auto-group-yv2f-4VD .path1865-ng7 {
+  margin-right: 2.1481rem;
+  width: 1.6111rem;
+  height: 1.7901rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-36-Z7D .auto-group-zb1y-xf9 .group-33-85m .auto-group-yv2f-4VD .path1869-Kvw {
+  margin: 0rem 2.148rem 0.358rem 0rem;
+  width: 2.6852rem;
+  height: 2.6852rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-36-Z7D .auto-group-zb1y-xf9 .group-33-85m .auto-group-yv2f-4VD .path1867-Jns {
+  width: 1.6111rem;
+  height: 1.6111rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-36-Z7D .auto-group-zb1y-xf9 .group-33-85m .path1863-3VZ {
+  width: 14.5rem;
+  height: 6.9815rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .eficiencia-y-eficacia-a-un-clic-de-distancia-empieza-con-tu-asistente-hoy-AaB {
+  width: 75rem;
+  height: 9.4rem;
+  position: absolute;
+  left: 27.15rem;
+  top: 74.2rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB {
+  width: 161.8rem;
+  height: 45.8rem;
+  position: absolute;
+  left: 15.1rem;
+  top: 93.6rem;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-1yv3-DB5 {
+  display: flex;
+  align-items: center;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-1yv3-DB5 .te-gustaria-hablar-con-un-representante-jv7 {
+  margin-right: 15.2rem;
+  max-width: 33.9rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-1yv3-DB5 .contacto-dkb {
+  margin: 0.9rem 21.8rem 0rem 0rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2000000212;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-1yv3-DB5 .ubicacion-k4X {
+  margin-top: 0.9rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2000000212;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-v3bu-UWK {
+  margin-bottom: 0.9rem;
+  width: 100%;
+  height: 9.4rem;
+  display: flex;
+  align-items: flex-start;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-v3bu-UWK .auto-group-tvfh-DD1 {
+  margin: 1.1rem 10.246rem 0.819rem 0rem;
+  width: 38.8538rem;
+  height: calc(100% - 1.9191rem);
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-v3bu-UWK .auto-group-tvfh-DD1 .nombre-completo-vt7 {
+  margin-bottom: 0.8276rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-v3bu-UWK .auto-group-tvfh-DD1 .rectangle-110-GSB {
+  width: 100%;
+  height: 3.8533rem;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-v3bu-UWK .contactodelcampochcom-oBD {
+  margin: 0.2rem 4.3rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2000000477;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-v3bu-UWK .insurgentes-sur-682-col-del-valle-alcalda-benito-juarez-cp-03100-cdmx-tiT {
+  margin-right: 17.6rem;
+  max-width: 27.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-v3bu-UWK .auto-group-7fnp-xiK {
+  margin-top: 0.9rem;
+  box-sizing: border-box;
+  padding: 1.4rem 10.4rem 1.1rem 10.4rem;
+  width: 28.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-v3bu-UWK .auto-group-7fnp-xiK .auto-group-fc7r-UAs {
+  margin: 0rem 1.2rem 0.4rem 1.2rem;
+  width: calc(100% - 2.4rem);
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-v3bu-UWK .auto-group-7fnp-xiK .auto-group-fc7r-UAs .path1865-Bb5 {
+  width: 0.9rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-v3bu-UWK .auto-group-7fnp-xiK .auto-group-fc7r-UAs .path1869-jMh {
+  margin-bottom: 0.2rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-v3bu-UWK .auto-group-7fnp-xiK .auto-group-fc7r-UAs .path1867-5RZ {
+  width: 0.9rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-v3bu-UWK .auto-group-7fnp-xiK .path1863-pP9 {
+  width: 8.1rem;
+  height: 3.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .correo-electronico-wCs {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-qmex-ssD {
+  box-sizing: border-box;
+  padding-top: 0.5186rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-qmex-ssD .rectangle-111-DgB {
+  margin-bottom: 1.7281rem;
+  width: 38.8538rem;
+  height: 3.8533rem;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-qmex-ssD .mensaje-YTZ {
+  margin-bottom: 0.8096rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #0fe0e0;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-qmex-ssD .rectangle-112-5iP {
+  margin-bottom: 2.1407rem;
+  width: 38.8538rem;
+  height: 9.6332rem;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-qmex-ssD .normal-hover-1c3 {
+  width: 12.7372rem;
+  height: 4.8166rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.4666666667;
+  color: #1be9d8;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle.png');
+  flex-shrink: 0;
+}
