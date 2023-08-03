@@ -1,10 +1,17 @@
-html {
-  font-size: 62.5%;
-}
-
 * {
   margin: 0;
   padding: 0;
+}
+
+html {
+  font-size: 44%;
+}
+
+html,
+body {
+  margin: 0px;
+  height: 100%;
+  width: 100%;
 }
 
 ul,
@@ -16,9 +23,10 @@ input {
   border: none;
 }
 
+/* 
 body {
-  width: 192rem;
-}
+  width: 500rem;
+} */
 
 .asistente-virtual-g3Z {
   width: 100%;
