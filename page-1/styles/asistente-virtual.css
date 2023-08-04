@@ -958,3 +958,7 @@ body {
 .normal-hover-1c3:hover {
   background-color: #223094;
 }
+
+iframe {
+  border-radius: 10px;
+}
