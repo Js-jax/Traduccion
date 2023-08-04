@@ -23,6 +23,10 @@ input {
   border: none;
 }
 
+a {
+  text-decoration: none;
+}
+
 /* 
 body {
   width: 500rem;
@@ -60,7 +64,7 @@ body {
   font-weight: bold;
   position: absolute;
   right: 1rem;
-  /* transition: all 0.2s ease; */
+  transition: all 0.2s ease;
 }
 
 .accordian-item-header.active::after {
@@ -71,12 +75,23 @@ body {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
+  background-color: #08d6f157;
+  border-radius: 10px;
+  /* opacity: 20%; */
 }
 
 .accordian-item-body-content {
-  padding: 1rem;
+  padding: 4rem;
   line-height: 1.5;
-  border-top: 1px solid #34495e;
+  /* border-bottom: 1px solid #1eacc5; */
+  /* background-color: #0fe0e0; */
+  opacity: 100%;
+}
+
+.accordian-item-body-content p {
+  font-size: 18px;
+  font-style: oblique;
+  font-family: Arimo;
 }
 
 @media (max-width: 768px) {
@@ -380,6 +395,7 @@ body {
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
+
 }
 
 .asistente-virtual-g3Z .auto-group-zdq9-hDZ .group-35-YPq .auto-group-fr4o-2dm {
@@ -723,6 +739,14 @@ body {
   flex-shrink: 0;
 }
 
+.contacto-dkb {
+  font-size: 20px;
+  color: #f2f2f2;
+  font-family: arimo;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
 .asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-1yv3-DB5 .contacto-dkb {
   margin: 0.9rem 21.8rem 0rem 0rem;
   font-size: 3.6rem;
@@ -732,6 +756,16 @@ body {
   font-family: Montserrat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+}
+
+
+.ubicacion-k4X {
+  font-size: 20px;
+  color: #f2f2f2;
+  font-family: arimo;
+  font-weight: bold;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
 
 .asistente-virtual-g3Z .auto-group-aans-3UK .group-38-LNB .auto-group-1yv3-DB5 .ubicacion-k4X {
@@ -909,12 +943,18 @@ body {
   font-size: 1.5rem;
   font-weight: 600;
   line-height: 1.4666666667;
-  color: #1be9d8;
+  color: #ffffff;
   font-family: Montserrat, 'Source Sans Pro';
   white-space: nowrap;
-  background-size: cover;
+  border-style: unset;
+  background-color: #1be9d8;
+  /* background-size: cover; */
   background-repeat: no-repeat;
   background-position: center;
   background-image: url('../assets/rectangle.png');
   flex-shrink: 0;
+}
+
+.normal-hover-1c3:hover {
+  background-color: #223094;
 }
