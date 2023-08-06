@@ -1,26 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 
 html {
-	font-size:62.5%;
+  font-size: 43.8%;
 }
-* {
-	margin: 0;
-	padding: 0;
+
+html,
+body {
+  margin: 0px;
+  height: 100%;
+  width: 100%;
 }
-ul, li {
-	list-style: none;
+
+a {
+  text-decoration: none;
 }
+
+ul,
+li {
+  list-style: none;
+}
+
 input {
-	border: none;
+  border: none;
 }
+
 body {
   width: 192rem;
-}.cotizacion-Gfy {
+}
+
+.cotizacion-Gfy {
   width: 100%;
   height: 300.5rem;
   position: relative;
   overflow: hidden;
   background-color: #f7f5f9;
 }
+
 .cotizacion-Gfy .vector-s9y {
   width: 249.3rem;
   height: 100.2rem;
@@ -30,6 +48,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .vector-ML3 {
   width: 231.348rem;
   height: 111.5381rem;
@@ -39,6 +58,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .rectangle-10-FwD {
   width: 192rem;
   height: 82.7rem;
@@ -47,6 +67,7 @@ body {
   top: 217.8rem;
   background-color: #10297d;
 }
+
 .cotizacion-Gfy .rectangle-4-xaj {
   width: 77.7rem;
   height: 189.8rem;
@@ -57,6 +78,7 @@ body {
   background-color: #ffffff;
   border-radius: 2.5rem;
 }
+
 .cotizacion-Gfy .rectangle-619-rRD {
   width: 77.7rem;
   height: 87.8rem;
@@ -67,6 +89,7 @@ body {
   background-color: #ffffff;
   border-radius: 2.5rem;
 }
+
 .cotizacion-Gfy .rectangle-622-xz3 {
   width: 55.1rem;
   height: 22.7rem;
@@ -78,6 +101,7 @@ body {
   background-color: rgba(7, 169, 207, 0.5);
   border-radius: 1rem;
 }
+
 .cotizacion-Gfy .rectangle-621-4nB {
   width: 1.6866rem;
   height: 1.4601rem;
@@ -87,6 +111,7 @@ body {
   background-color: #000000;
   border-radius: 2.3rem;
 }
+
 .cotizacion-Gfy .rectangle-620-akX {
   width: 2.2019rem;
   height: 2.3479rem;
@@ -96,15 +121,17 @@ body {
   background-color: #000000;
   border-radius: 1.6rem;
 }
+
 .cotizacion-Gfy .ellipse-24-7VZ {
   width: 5.8rem;
   height: 5.8rem;
   position: absolute;
   left: 111.1rem;
   top: 32.5rem;
-  background-color: #000000;
+  /* background-color: #cec7c7; */
   border-radius: 2.9rem;
 }
+
 .cotizacion-Gfy .first-connect-your-metamask-or-trustwallet-to-the-connect-wallet-on-the-homepage-EKH {
   width: 65.4rem;
   height: 2rem;
@@ -119,6 +146,7 @@ body {
   font-family: Abyssinica SIL, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .chevron-right-ic-HHZ {
   opacity: 0.6;
   width: 2.4rem;
@@ -129,6 +157,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .chevron-right-ic-Btj {
   opacity: 0.6;
   width: 2.4rem;
@@ -139,6 +168,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .then-send-minimum-of-01-bnb-or-maximum-of-10-bnb-to-the-presale-wallet-hMH {
   width: 58.4rem;
   height: 2rem;
@@ -153,6 +183,7 @@ body {
   font-family: Abyssinica SIL, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .path1869-n7q {
   width: 1.5rem;
   height: 1.5rem;
@@ -162,6 +193,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1867-iXH {
   width: 0.9rem;
   height: 0.9rem;
@@ -171,6 +203,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1865-rdV {
   width: 0.9rem;
   height: 1rem;
@@ -180,6 +213,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1863-nn3 {
   width: 8.1rem;
   height: 3.9rem;
@@ -189,6 +223,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1861-KGB {
   width: 1.4rem;
   height: 1rem;
@@ -198,6 +233,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1859-F9q {
   width: 1.9rem;
   height: 1rem;
@@ -207,6 +243,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1857-n9m {
   width: 1.3rem;
   height: 1rem;
@@ -216,6 +253,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1855-iZD {
   width: 1.4rem;
   height: 1.3rem;
@@ -225,6 +263,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1853-rvK {
   width: 0.2rem;
   height: 1.4rem;
@@ -234,6 +273,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1851-1HR {
   width: 1.4rem;
   height: 1rem;
@@ -243,6 +283,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1849-Yo9 {
   width: 1.5rem;
   height: 1.3rem;
@@ -252,6 +293,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1847-hR9 {
   width: 1.5rem;
   height: 1.4rem;
@@ -261,6 +303,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1845-1wd {
   width: 0.1rem;
   height: 0.1rem;
@@ -270,6 +313,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1843-8mM {
   width: 0.4rem;
   height: 0.4rem;
@@ -279,6 +323,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1841-UaK {
   width: 0.4rem;
   height: 0.4rem;
@@ -288,6 +333,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1839-REf {
   width: 0.6rem;
   height: 0.4rem;
@@ -297,6 +343,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1837-kGw {
   width: 0.4rem;
   height: 0.4rem;
@@ -306,6 +353,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1835-Uyd {
   width: 0.5rem;
   height: 0.6rem;
@@ -315,6 +363,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1833-EC7 {
   width: 0.1rem;
   height: 0.6rem;
@@ -324,6 +373,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1831-a15 {
   width: 0.3rem;
   height: 0.5rem;
@@ -333,6 +383,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1829-6EK {
   width: 0;
   height: 0.4rem;
@@ -342,6 +393,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1827-dzw {
   width: 0.4rem;
   height: 0.4rem;
@@ -351,6 +403,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1825-nN3 {
   width: 0.4rem;
   height: 0.4rem;
@@ -360,6 +413,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1823-vUF {
   width: 0.5rem;
   height: 0.4rem;
@@ -369,6 +423,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1821-GHD {
   width: 0.5rem;
   height: 0.6rem;
@@ -378,6 +433,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1737-onw {
   width: 0.4rem;
   height: 0.6rem;
@@ -387,6 +443,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .rectangle-594-YkX {
   width: 51.1rem;
   height: 7.6rem;
@@ -396,6 +453,7 @@ body {
   background-color: #0c65a4;
   border-radius: 1rem;
 }
+
 .cotizacion-Gfy .realiza-tu-cotizacion-g63 {
   width: 23.7rem;
   height: 5.4rem;
@@ -410,6 +468,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .la-cotizacin-que-buscas-en-un-solo-lugar-NDm {
   width: 61.4rem;
   height: 10.8rem;
@@ -423,6 +482,7 @@ body {
   color: #191b21;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .cotizacion-Gfy .layer1-FYT {
   width: 5.3147rem;
   height: 3.9846rem;
@@ -432,6 +492,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1829-Nsy {
   width: 0.1rem;
   height: 0.4rem;
@@ -441,6 +502,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .mask-group-vPh {
   width: 161.8667rem;
   height: 22.4151rem;
@@ -450,6 +512,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .whatsapp-4Vu {
   width: 7.1rem;
   height: 1.9rem;
@@ -464,6 +527,7 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .ellipse-3-mv7 {
   width: 4.7rem;
   height: 4.8rem;
@@ -473,6 +537,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .contactanos-v2K {
   width: 18rem;
   height: 3.7rem;
@@ -486,6 +551,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .nombre-completo-1pT {
   width: 19.5rem;
   height: 2.8rem;
@@ -499,6 +565,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .correo-electronico-vgX {
   width: 19.8rem;
   height: 2.9rem;
@@ -512,6 +579,7 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .mensaje-SPy {
   width: 8.4rem;
   height: 2.6rem;
@@ -525,6 +593,7 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .rectangle-110-vpw {
   width: 38.8538rem;
   height: 3.8533rem;
@@ -534,6 +603,7 @@ body {
   background-color: #ffffff;
   border-radius: 1rem;
 }
+
 .cotizacion-Gfy .rectangle-111-FMR {
   width: 38.8538rem;
   height: 3.8533rem;
@@ -543,6 +613,7 @@ body {
   background-color: #ffffff;
   border-radius: 1rem;
 }
+
 .cotizacion-Gfy .rectangle-112-a8o {
   width: 38.8538rem;
   height: 9.6332rem;
@@ -552,6 +623,7 @@ body {
   background-color: #ffffff;
   border-radius: 1rem;
 }
+
 .cotizacion-Gfy .normal-hover-Jab {
   width: 12.7372rem;
   height: 4.8166rem;
@@ -572,6 +644,7 @@ body {
   background-position: center;
   background-image: url('../assets/rectangle-y5R.png');
 }
+
 .cotizacion-Gfy .contacto-mUB {
   width: 17rem;
   height: 4.4rem;
@@ -585,6 +658,7 @@ body {
   font-family: Montserrat, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .ubicacion-Gfq {
   width: 18.6rem;
   height: 4.4rem;
@@ -598,6 +672,7 @@ body {
   font-family: Montserrat, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .contactodelcampochcom-yq9 {
   width: 34.5rem;
   height: 2.9rem;
@@ -611,6 +686,7 @@ body {
   font-family: Montserrat, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .insurgentes-sur-682-col-del-valle-alcalda-benito-juarez-cp-03100-cdmx-hFM {
   width: 27.4rem;
   height: 8.7rem;
@@ -623,6 +699,7 @@ body {
   color: #ffffff;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .cotizacion-Gfy .rectangle-607-xwy {
   width: 28.9rem;
   height: 8.5rem;
@@ -632,6 +709,7 @@ body {
   background-color: #ffffff;
   border-radius: 5rem;
 }
+
 .cotizacion-Gfy .path1869-6HV {
   width: 1.5rem;
   height: 1.5rem;
@@ -641,6 +719,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1867-DN7 {
   width: 0.9rem;
   height: 0.9rem;
@@ -650,6 +729,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1865-9mZ {
   width: 0.9rem;
   height: 1rem;
@@ -659,6 +739,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1863-tUF {
   width: 8.1rem;
   height: 3.9rem;
@@ -668,6 +749,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1861-dAw {
   width: 1.4rem;
   height: 1rem;
@@ -677,6 +759,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1859-wxK {
   width: 1.9rem;
   height: 1rem;
@@ -686,6 +769,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1857-5od {
   width: 1.3rem;
   height: 1rem;
@@ -695,6 +779,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1855-2D5 {
   width: 1.4rem;
   height: 1.3rem;
@@ -704,6 +789,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1853-MWF {
   width: 0.2rem;
   height: 1.4rem;
@@ -713,6 +799,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1851-goR {
   width: 1.4rem;
   height: 1rem;
@@ -722,6 +809,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1849-pej {
   width: 1.5rem;
   height: 1.3rem;
@@ -731,6 +819,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1847-ATh {
   width: 1.5rem;
   height: 1.4rem;
@@ -740,6 +829,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1845-783 {
   width: 0.1rem;
   height: 0.1rem;
@@ -749,6 +839,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1843-TBu {
   width: 0.4rem;
   height: 0.4rem;
@@ -758,6 +849,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1841-PrF {
   width: 0.4rem;
   height: 0.4rem;
@@ -767,6 +859,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1839-94j {
   width: 0.6rem;
   height: 0.4rem;
@@ -776,6 +869,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1837-gaT {
   width: 0.4rem;
   height: 0.4rem;
@@ -785,6 +879,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1835-E6B {
   width: 0.5rem;
   height: 0.6rem;
@@ -794,6 +889,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1833-aQw {
   width: 0.1rem;
   height: 0.6rem;
@@ -803,6 +899,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1831-Xb5 {
   width: 0.3rem;
   height: 0.5rem;
@@ -812,6 +909,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1829-5cb {
   width: 0;
   height: 0.4rem;
@@ -821,6 +919,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1827-2Gw {
   width: 0.4rem;
   height: 0.4rem;
@@ -830,6 +929,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1825-NLo {
   width: 0.4rem;
   height: 0.4rem;
@@ -839,6 +939,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1823-v7R {
   width: 0.5rem;
   height: 0.4rem;
@@ -848,6 +949,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1821-4jR {
   width: 0.5rem;
   height: 0.6rem;
@@ -857,6 +959,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1737-owu {
   width: 0.4rem;
   height: 0.6rem;
@@ -866,6 +969,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1829-kcF {
   width: 0.1rem;
   height: 0.4rem;
@@ -875,6 +979,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .connect-wallet-6AK {
   width: 17.3rem;
   height: 2.8rem;
@@ -892,6 +997,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .tokens-D8T {
   width: 8.3rem;
   height: 2.8rem;
@@ -909,6 +1015,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .our-team-7Uj {
   width: 11.1rem;
   height: 2.8rem;
@@ -926,6 +1033,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .lightpaper-1a7 {
   width: 12.4rem;
   height: 2.8rem;
@@ -943,6 +1051,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .asistente-virtual-uvP {
   width: 9.2rem;
   height: 4.6rem;
@@ -960,6 +1069,7 @@ body {
   color: #ffffff;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .cotizacion-Gfy .traduccion-documentos-oks {
   width: 11.8rem;
   height: 4.6rem;
@@ -975,6 +1085,7 @@ body {
   color: #ffffff;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .cotizacion-Gfy .inicio-6jy {
   width: 5rem;
   height: 2.3rem;
@@ -991,6 +1102,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .centro-de-contacto-CY7 {
   width: 9.2rem;
   height: 4.6rem;
@@ -1006,6 +1118,7 @@ body {
   color: #ffffff;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .cotizacion-Gfy .en-pocos-clics-conoce-tu-cotizacin-exacta-y-sin-complicaciones-W31 {
   width: 36.6rem;
   height: 5.6rem;
@@ -1021,6 +1134,7 @@ body {
   color: rgba(0, 0, 0, 0.6999999881);
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .cotizacion-Gfy .idioma-AtF {
   width: 7.8rem;
   height: 5.4rem;
@@ -1035,6 +1149,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .nombre-5VR {
   width: 9.1rem;
   height: 5.4rem;
@@ -1049,6 +1164,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .apellido-zMV {
   width: 9.5rem;
   height: 5.4rem;
@@ -1063,6 +1179,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .correo-ujM {
   width: 8.9rem;
   height: 5.4rem;
@@ -1077,6 +1194,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .telefono-pbR {
   width: 9.9rem;
   height: 5.4rem;
@@ -1091,6 +1209,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .documentos-a-traducir-97u {
   width: 27.8rem;
   height: 5.4rem;
@@ -1105,6 +1224,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .informacion-adicional-qmR {
   width: 21.1rem;
   height: 5.4rem;
@@ -1119,6 +1239,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .recibiras-tu-cotizacion-por-correo-electronico-eym {
   width: 35.6rem;
   height: 5.4rem;
@@ -1133,6 +1254,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .rectangle-608-Ka7 {
   width: 15.2rem;
   height: 4.6rem;
@@ -1142,6 +1264,7 @@ body {
   background-color: #07a9cf;
   border-radius: 5rem;
 }
+
 .cotizacion-Gfy .rectangle-610-2zK {
   width: 41.8rem;
   height: 4.6rem;
@@ -1153,6 +1276,7 @@ body {
   background-color: #ffffff;
   border-radius: 1rem;
 }
+
 .cotizacion-Gfy .rectangle-611-XRH {
   width: 41.8rem;
   height: 4.6rem;
@@ -1164,6 +1288,7 @@ body {
   background-color: #ffffff;
   border-radius: 1rem;
 }
+
 .cotizacion-Gfy .rectangle-612-Dou {
   width: 41.8rem;
   height: 4.6rem;
@@ -1175,6 +1300,7 @@ body {
   background-color: #ffffff;
   border-radius: 1rem;
 }
+
 .cotizacion-Gfy .rectangle-613-Wo1 {
   width: 41.8rem;
   height: 4.6rem;
@@ -1186,6 +1312,7 @@ body {
   background-color: #ffffff;
   border-radius: 1rem;
 }
+
 .cotizacion-Gfy .rectangle-615-DBd {
   width: 55.1rem;
   height: 35.2rem;
@@ -1197,6 +1324,7 @@ body {
   background-color: #ffffff;
   border-radius: 1.5rem;
 }
+
 .cotizacion-Gfy .rectangle-618-7H1 {
   width: 51.1rem;
   height: 17rem;
@@ -1208,6 +1336,7 @@ body {
   background-color: #ffffff;
   border-radius: 1.5rem;
 }
+
 .cotizacion-Gfy .rectangle-609-Dqq {
   width: 15.3rem;
   height: 4.6rem;
@@ -1217,6 +1346,7 @@ body {
   background-color: #07a9cf;
   border-radius: 5rem;
 }
+
 .cotizacion-Gfy .vector-6-jpB {
   width: 5.1rem;
   height: 0;
@@ -1226,6 +1356,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .vector-7-gUX {
   width: 5.1rem;
   height: 0;
@@ -1235,6 +1366,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .espaol-pKq {
   width: 8.7rem;
   height: 5.4rem;
@@ -1251,6 +1383,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .ingles-v7y {
   width: 6.5rem;
   height: 5.4rem;
@@ -1267,6 +1400,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .subir-archivos-dHH {
   width: 16.7rem;
   height: 5.4rem;
@@ -1281,6 +1415,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .ellipse-23-XdZ {
   width: 10.4rem;
   height: 10.4rem;
@@ -1290,6 +1425,7 @@ body {
   background-color: rgba(0, 0, 0, 0.400000006);
   border-radius: 5.2rem;
 }
+
 .cotizacion-Gfy .rectangle-616-4Nb {
   width: 1.1rem;
   height: 3.7rem;
@@ -1299,6 +1435,7 @@ body {
   background-color: rgba(217, 217, 217, 0.5);
   border-radius: 1.6rem;
 }
+
 .cotizacion-Gfy .rectangle-617-n3h {
   width: 3.7rem;
   height: 1.1rem;
@@ -1308,6 +1445,7 @@ body {
   background-color: rgba(217, 217, 217, 0.5);
   border-radius: 2.3rem;
 }
+
 .cotizacion-Gfy .gracias-por-contactarnos-hemos-recibido-su-mensaje-y-apreciamos-su-solicitud-ue7 {
   width: 43.6rem;
   height: 4.4rem;
@@ -1320,6 +1458,7 @@ body {
   color: #000000;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .cotizacion-Gfy .no-dude-en-comunicarse-con-nosotros-al-52-800-283-3196-para-obtener-asistencia-rpida-C7R {
   width: 45.7rem;
   height: 4.4rem;
@@ -1332,6 +1471,7 @@ body {
   color: #000000;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .cotizacion-Gfy .tambin-puede-enviar-un-correo-electrnico-a-contactodelcampochcom-para-servicio-24-7-4fR {
   width: 41.7rem;
   height: 4.4rem;
@@ -1344,6 +1484,7 @@ body {
   color: #000000;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .cotizacion-Gfy .tambin-puede-enviar-un-correo-electrnico-a-contactodelcampochcom-para-servicio-24-7-4fR .tambin-puede-enviar-un-correo-electrnico-a-contactodelcampochcom-para-servicio-24-7-4fR-sub-0 {
   font-size: 2rem;
   font-weight: 400;
@@ -1351,6 +1492,7 @@ body {
   color: #000000;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .cotizacion-Gfy .tambin-puede-enviar-un-correo-electrnico-a-contactodelcampochcom-para-servicio-24-7-4fR .tambin-puede-enviar-un-correo-electrnico-a-contactodelcampochcom-para-servicio-24-7-4fR-sub-1 {
   font-size: 2rem;
   font-weight: 400;
@@ -1359,6 +1501,7 @@ body {
   color: #000000;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .cotizacion-Gfy .tambin-puede-enviar-un-correo-electrnico-a-contactodelcampochcom-para-servicio-24-7-4fR .tambin-puede-enviar-un-correo-electrnico-a-contactodelcampochcom-para-servicio-24-7-4fR-sub-2 {
   font-size: 2rem;
   font-weight: 400;
@@ -1366,6 +1509,7 @@ body {
   color: #000000;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .cotizacion-Gfy .path8688-FG3 {
   width: 5.8813rem;
   height: 5.8rem;
@@ -1375,6 +1519,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path8688-ySw {
   width: 2.4336rem;
   height: 2.4326rem;
@@ -1384,6 +1529,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path8680-JVD {
   width: 7.0163rem;
   height: 7.2rem;
@@ -1393,6 +1539,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .layer1-e3H {
   width: 7.1987rem;
   height: 7.2rem;
@@ -1402,6 +1549,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .su-cotizacin-ha-sido-enviada-a-ejemplogmailcom-Zvw {
   width: 42.2rem;
   height: 2.2rem;
@@ -1415,6 +1563,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .cotizacion-Gfy .rectangle-645-3r7 {
   width: 9rem;
   height: 9rem;
@@ -1425,6 +1574,7 @@ body {
   background-color: #ffffff;
   border-radius: 1.8rem;
 }
+
 .cotizacion-Gfy .path1869-jU3 {
   width: 1.5rem;
   height: 1.5rem;
@@ -1434,6 +1584,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1867-Tuq {
   width: 0.9rem;
   height: 0.9rem;
@@ -1443,6 +1594,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1865-oTu {
   width: 0.9rem;
   height: 1rem;
@@ -1452,6 +1604,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .cotizacion-Gfy .path1863-Lij {
   width: 8.1rem;
   height: 3.9rem;

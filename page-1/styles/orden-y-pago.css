@@ -1,26 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 
 html {
-	font-size:62.5%;
+  font-size: 43.8%;
 }
-* {
-	margin: 0;
-	padding: 0;
+
+html,
+body {
+  margin: 0px;
+  height: 100%;
+  width: 100%;
 }
-ul, li {
-	list-style: none;
+
+a {
+  text-decoration: none;
 }
+
+ul,
+li {
+  list-style: none;
+}
+
 input {
-	border: none;
+  border: none;
 }
+
 body {
   width: 192rem;
-}.orden-y-pago-Xx3 {
+}
+
+.orden-y-pago-Xx3 {
   width: 100%;
   height: 300.5rem;
   position: relative;
   overflow: hidden;
   background-color: #f7f5f9;
 }
+
 .orden-y-pago-Xx3 .vector-JLX {
   width: 249.3rem;
   height: 100.2rem;
@@ -30,6 +48,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .vector-21d {
   width: 231.348rem;
   height: 111.5381rem;
@@ -39,6 +58,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .rectangle-10-MJo {
   width: 192rem;
   height: 84.3rem;
@@ -47,6 +67,7 @@ body {
   top: 216.2rem;
   background-color: #07a9cf;
 }
+
 .orden-y-pago-Xx3 .rectangle-4-5Vh {
   width: 77.7rem;
   height: 165.6rem;
@@ -57,6 +78,7 @@ body {
   background-color: #ffffff;
   border-radius: 2.5rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-619-BHq {
   width: 77.7rem;
   height: 175.1rem;
@@ -67,6 +89,7 @@ body {
   background-color: #ffffff;
   border-radius: 2.5rem;
 }
+
 .orden-y-pago-Xx3 .first-connect-your-metamask-or-trustwallet-to-the-connect-wallet-on-the-homepage-U23 {
   width: 65.4rem;
   height: 2rem;
@@ -81,6 +104,7 @@ body {
   font-family: Abyssinica SIL, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .chevron-right-ic-XFD {
   opacity: 0.6;
   width: 2.4rem;
@@ -91,6 +115,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .chevron-right-ic-E9d {
   opacity: 0.6;
   width: 2.4rem;
@@ -101,6 +126,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .then-send-minimum-of-01-bnb-or-maximum-of-10-bnb-to-the-presale-wallet-9nP {
   width: 58.4rem;
   height: 2rem;
@@ -115,6 +141,7 @@ body {
   font-family: Abyssinica SIL, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .path1869-ptX {
   width: 1.5rem;
   height: 1.5rem;
@@ -124,6 +151,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1867-knB {
   width: 0.9rem;
   height: 0.9rem;
@@ -133,6 +161,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1865-Uy5 {
   width: 0.9rem;
   height: 1rem;
@@ -142,6 +171,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1863-cZV {
   width: 8.1rem;
   height: 3.9rem;
@@ -151,6 +181,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1861-Mmy {
   width: 1.4rem;
   height: 1rem;
@@ -160,6 +191,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1859-JhD {
   width: 1.9rem;
   height: 1rem;
@@ -169,6 +201,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1857-TKD {
   width: 1.3rem;
   height: 1rem;
@@ -178,6 +211,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1855-CXh {
   width: 1.4rem;
   height: 1.3rem;
@@ -187,6 +221,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1853-jnX {
   width: 0.2rem;
   height: 1.4rem;
@@ -196,6 +231,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1851-UEK {
   width: 1.4rem;
   height: 1rem;
@@ -205,6 +241,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1849-oGb {
   width: 1.5rem;
   height: 1.3rem;
@@ -214,6 +251,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1847-XyH {
   width: 1.5rem;
   height: 1.4rem;
@@ -223,6 +261,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1845-Udd {
   width: 0.1rem;
   height: 0.1rem;
@@ -232,6 +271,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1843-R35 {
   width: 0.4rem;
   height: 0.4rem;
@@ -241,6 +281,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1841-xoh {
   width: 0.4rem;
   height: 0.4rem;
@@ -250,6 +291,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1839-iH5 {
   width: 0.6rem;
   height: 0.4rem;
@@ -259,6 +301,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1837-qcb {
   width: 0.4rem;
   height: 0.4rem;
@@ -268,6 +311,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1835-aq5 {
   width: 0.5rem;
   height: 0.6rem;
@@ -277,6 +321,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1833-igP {
   width: 0.1rem;
   height: 0.6rem;
@@ -286,6 +331,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1831-f5q {
   width: 0.3rem;
   height: 0.5rem;
@@ -295,6 +341,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1829-nw9 {
   width: 0;
   height: 0.4rem;
@@ -304,6 +351,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1827-8k7 {
   width: 0.4rem;
   height: 0.4rem;
@@ -313,6 +361,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1825-fk3 {
   width: 0.4rem;
   height: 0.4rem;
@@ -322,6 +371,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1823-obM {
   width: 0.5rem;
   height: 0.4rem;
@@ -331,6 +381,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1821-wxT {
   width: 0.5rem;
   height: 0.6rem;
@@ -340,6 +391,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1737-tMu {
   width: 0.4rem;
   height: 0.6rem;
@@ -349,6 +401,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .rectangle-594-q2F {
   width: 51.1rem;
   height: 7.6rem;
@@ -358,6 +411,7 @@ body {
   background-color: #0c65a4;
   border-radius: 1rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-644-ZD9 {
   width: 51.1rem;
   height: 7.6rem;
@@ -367,6 +421,7 @@ body {
   background-color: #0c65a4;
   border-radius: 1rem;
 }
+
 .orden-y-pago-Xx3 .proceder-orden-tmD {
   width: 18.2rem;
   height: 5.4rem;
@@ -381,6 +436,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .ordenar-ahora-odH {
   width: 17rem;
   height: 5.4rem;
@@ -395,6 +451,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .ordene-ahora-7ts {
   width: 26.7rem;
   height: 5.4rem;
@@ -409,6 +466,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .resumen-y-metodo-de-envio-SAT {
   width: 54.3rem;
   height: 5.4rem;
@@ -423,6 +481,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .layer1-Kzw {
   width: 5.3147rem;
   height: 3.9846rem;
@@ -432,6 +491,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1829-4Bq {
   width: 0.1rem;
   height: 0.4rem;
@@ -441,6 +501,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .mask-group-Pzo {
   width: 161.8667rem;
   height: 22.4151rem;
@@ -450,6 +511,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .whatsapp-XbD {
   width: 7.1rem;
   height: 1.9rem;
@@ -464,6 +526,7 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .ellipse-3-2H5 {
   width: 4.7rem;
   height: 4.8rem;
@@ -473,6 +536,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .contactanos-ZXu {
   width: 18rem;
   height: 3.7rem;
@@ -486,6 +550,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .nombre-completo-4jZ {
   width: 19.5rem;
   height: 2.8rem;
@@ -499,6 +564,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .correo-electronico-mdy {
   width: 19.8rem;
   height: 2.9rem;
@@ -512,6 +578,7 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .mensaje-tTh {
   width: 8.4rem;
   height: 2.6rem;
@@ -525,6 +592,7 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .rectangle-110-bsu {
   width: 38.8538rem;
   height: 3.8533rem;
@@ -534,6 +602,7 @@ body {
   background-color: #ffffff;
   border-radius: 1rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-111-WV5 {
   width: 38.8538rem;
   height: 3.8533rem;
@@ -543,6 +612,7 @@ body {
   background-color: #ffffff;
   border-radius: 1rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-112-dpb {
   width: 38.8538rem;
   height: 9.6332rem;
@@ -552,6 +622,7 @@ body {
   background-color: #ffffff;
   border-radius: 1rem;
 }
+
 .orden-y-pago-Xx3 .normal-hover-ZiF {
   width: 12.7372rem;
   height: 4.8166rem;
@@ -572,6 +643,7 @@ body {
   background-position: center;
   background-image: url('../assets/rectangle-cwZ.png');
 }
+
 .orden-y-pago-Xx3 .contacto-dTD {
   width: 17rem;
   height: 4.4rem;
@@ -585,6 +657,7 @@ body {
   font-family: Montserrat, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .ubicacion-jm9 {
   width: 18.6rem;
   height: 4.4rem;
@@ -598,6 +671,7 @@ body {
   font-family: Montserrat, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .contactodelcampochcom-319 {
   width: 34.5rem;
   height: 2.9rem;
@@ -611,6 +685,7 @@ body {
   font-family: Montserrat, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .insurgentes-sur-682-col-del-valle-alcalda-benito-juarez-cp-03100-cdmx-kAT {
   width: 27.4rem;
   height: 8.7rem;
@@ -623,6 +698,7 @@ body {
   color: #ffffff;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .orden-y-pago-Xx3 .rectangle-607-pAK {
   width: 28.9rem;
   height: 8.5rem;
@@ -632,6 +708,7 @@ body {
   background-color: #ffffff;
   border-radius: 5rem;
 }
+
 .orden-y-pago-Xx3 .path1869-Yc7 {
   width: 1.5rem;
   height: 1.5rem;
@@ -641,6 +718,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1867-tR5 {
   width: 0.9rem;
   height: 0.9rem;
@@ -650,6 +728,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1865-RR1 {
   width: 0.9rem;
   height: 1rem;
@@ -659,6 +738,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1863-yBd {
   width: 8.1rem;
   height: 3.9rem;
@@ -668,6 +748,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1861-uqy {
   width: 1.4rem;
   height: 1rem;
@@ -677,6 +758,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1859-T6o {
   width: 1.9rem;
   height: 1rem;
@@ -686,6 +768,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1857-nPy {
   width: 1.3rem;
   height: 1rem;
@@ -695,6 +778,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1855-Keo {
   width: 1.4rem;
   height: 1.3rem;
@@ -704,6 +788,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1853-fif {
   width: 0.2rem;
   height: 1.4rem;
@@ -713,6 +798,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1851-zkw {
   width: 1.4rem;
   height: 1rem;
@@ -722,6 +808,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1849-wgB {
   width: 1.5rem;
   height: 1.3rem;
@@ -731,6 +818,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1847-Po5 {
   width: 1.5rem;
   height: 1.4rem;
@@ -740,6 +828,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1845-vo1 {
   width: 0.1rem;
   height: 0.1rem;
@@ -749,6 +838,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1843-4PR {
   width: 0.4rem;
   height: 0.4rem;
@@ -758,6 +848,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1841-o67 {
   width: 0.4rem;
   height: 0.4rem;
@@ -767,6 +858,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1839-Xno {
   width: 0.6rem;
   height: 0.4rem;
@@ -776,6 +868,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1837-g9u {
   width: 0.4rem;
   height: 0.4rem;
@@ -785,6 +878,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1835-cpF {
   width: 0.5rem;
   height: 0.6rem;
@@ -794,6 +888,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1833-MWw {
   width: 0.1rem;
   height: 0.6rem;
@@ -803,6 +898,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1831-HvP {
   width: 0.3rem;
   height: 0.5rem;
@@ -812,6 +908,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1829-Eqd {
   width: 0;
   height: 0.4rem;
@@ -821,6 +918,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1827-BVy {
   width: 0.4rem;
   height: 0.4rem;
@@ -830,6 +928,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1825-8RD {
   width: 0.4rem;
   height: 0.4rem;
@@ -839,6 +938,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1823-55Z {
   width: 0.5rem;
   height: 0.4rem;
@@ -848,6 +948,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1821-DxT {
   width: 0.5rem;
   height: 0.6rem;
@@ -857,6 +958,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1737-aHD {
   width: 0.4rem;
   height: 0.6rem;
@@ -866,6 +968,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1829-KEo {
   width: 0.1rem;
   height: 0.4rem;
@@ -875,6 +978,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .connect-wallet-3wV {
   width: 17.3rem;
   height: 2.8rem;
@@ -892,6 +996,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .tokens-Lvb {
   width: 8.3rem;
   height: 2.8rem;
@@ -909,6 +1014,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .our-team-F1y {
   width: 11.1rem;
   height: 2.8rem;
@@ -926,6 +1032,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .lightpaper-Ymm {
   width: 12.4rem;
   height: 2.8rem;
@@ -943,6 +1050,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .asistente-virtual-rnT {
   width: 9.2rem;
   height: 4.6rem;
@@ -960,6 +1068,7 @@ body {
   color: #ffffff;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .orden-y-pago-Xx3 .traduccion-documentos-ksq {
   width: 11.8rem;
   height: 4.6rem;
@@ -975,6 +1084,7 @@ body {
   color: #ffffff;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .orden-y-pago-Xx3 .inicio-4dd {
   width: 5rem;
   height: 2.3rem;
@@ -991,6 +1101,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .centro-de-contacto-xj1 {
   width: 9.2rem;
   height: 4.6rem;
@@ -1006,6 +1117,7 @@ body {
   color: #ffffff;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .orden-y-pago-Xx3 .en-unos-clics-obtenga-su-orden-con-facilidad-y-rapidez-Gjh {
   width: 32rem;
   height: 5.6rem;
@@ -1021,6 +1133,7 @@ body {
   color: rgba(0, 0, 0, 0.6999999881);
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .orden-y-pago-Xx3 .idioma-kum {
   width: 7.8rem;
   height: 5.4rem;
@@ -1035,6 +1148,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .traducir-de--4vT {
   width: 11.5rem;
   height: 5.4rem;
@@ -1049,6 +1163,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .traducir-al--BEP {
   width: 10.8rem;
   height: 5.4rem;
@@ -1063,6 +1178,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .velocidad-de-envio-5qZ {
   width: 11.9rem;
   height: 5.3rem;
@@ -1075,6 +1191,7 @@ body {
   color: #000000;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .orden-y-pago-Xx3 .nombre-Btb {
   width: 9.1rem;
   height: 5.4rem;
@@ -1089,6 +1206,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .nombre-de-la-persona-i7q {
   width: 25.3rem;
   height: 5.4rem;
@@ -1102,6 +1220,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .traduccion-espaol-ingles-E6B {
   width: 33.4rem;
   height: 5.4rem;
@@ -1115,6 +1234,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .pruebasgmailcom-vjh {
   width: 23.7rem;
   height: 5.4rem;
@@ -1128,6 +1248,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .apellidos-p4P {
   width: 10.9rem;
   height: 5.4rem;
@@ -1142,6 +1263,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .correo-ivT {
   width: 8.9rem;
   height: 5.4rem;
@@ -1156,6 +1278,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .telefono-dXd {
   width: 9.9rem;
   height: 5.4rem;
@@ -1170,6 +1293,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .documentos-a-traducir-MCj {
   width: 27.8rem;
   height: 5.4rem;
@@ -1184,6 +1308,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .recibiras-tu-cotizacion-por-correo-electronico-3rF {
   width: 35.6rem;
   height: 5.4rem;
@@ -1198,6 +1323,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .rectangle-608-wAw {
   width: 15.2rem;
   height: 4.6rem;
@@ -1207,6 +1333,7 @@ body {
   background-color: #07a9cf;
   border-radius: 5rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-610-rYo {
   width: 17.2rem;
   height: 4.6rem;
@@ -1216,6 +1343,7 @@ body {
   background-color: #07a9cf;
   border-radius: 1rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-623-Zy1 {
   width: 17.2rem;
   height: 4.6rem;
@@ -1225,6 +1353,7 @@ body {
   background-color: #e6e6e6;
   border-radius: 1rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-611-Uq5 {
   width: 39.8rem;
   height: 4.6rem;
@@ -1236,6 +1365,7 @@ body {
   background-color: #e6e6e6;
   border-radius: 1rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-612-NvT {
   width: 39.8rem;
   height: 4.6rem;
@@ -1245,6 +1375,7 @@ body {
   background-color: #e6e6e6;
   border-radius: 1rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-613-ufV {
   width: 39.8rem;
   height: 4.6rem;
@@ -1254,6 +1385,7 @@ body {
   background-color: #e6e6e6;
   border-radius: 1rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-624-e7H {
   width: 24.5rem;
   height: 4.6rem;
@@ -1263,6 +1395,7 @@ body {
   background-color: #e6e6e6;
   border-radius: 1rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-615-Noy {
   width: 55.1rem;
   height: 35.2rem;
@@ -1274,6 +1407,7 @@ body {
   background-color: #ffffff;
   border-radius: 1.5rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-609-hLT {
   width: 15.3rem;
   height: 4.6rem;
@@ -1283,6 +1417,7 @@ body {
   background-color: #07a9cf;
   border-radius: 5rem;
 }
+
 .orden-y-pago-Xx3 .vector-6-dju {
   width: 3rem;
   height: 0;
@@ -1292,6 +1427,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .vector-7-BWX {
   width: 3rem;
   height: 0;
@@ -1301,6 +1437,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .espaol-L8X {
   width: 8.7rem;
   height: 5.4rem;
@@ -1317,6 +1454,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .ingles-dNX {
   width: 6.5rem;
   height: 5.4rem;
@@ -1333,6 +1471,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .subir-archivos-jRZ {
   width: 16.7rem;
   height: 5.4rem;
@@ -1347,6 +1486,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .ellipse-23-2fZ {
   width: 10.4rem;
   height: 10.4rem;
@@ -1356,6 +1496,7 @@ body {
   background-color: rgba(0, 0, 0, 0.400000006);
   border-radius: 5.2rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-616-wXd {
   width: 1.1rem;
   height: 3.7rem;
@@ -1365,6 +1506,7 @@ body {
   background-color: #07a9cf;
   border-radius: 1.6rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-617-Gpo {
   width: 3.7rem;
   height: 1.1rem;
@@ -1374,6 +1516,7 @@ body {
   background-color: #07a9cf;
   border-radius: 2.3rem;
 }
+
 .orden-y-pago-Xx3 .urgente-1Gb {
   width: 7.6rem;
   height: 5.4rem;
@@ -1390,6 +1533,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .entrega-garantizada-el-mismo-dia-7aX {
   width: 12.9rem;
   height: 2.8rem;
@@ -1405,6 +1549,7 @@ body {
   color: rgba(0, 0, 0, 0.5);
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .orden-y-pago-Xx3 .dias-habiles-1R1 {
   width: 9.3rem;
   height: 1.4rem;
@@ -1421,6 +1566,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .metodo-de-envio-umH {
   width: 25.6rem;
   height: 5.4rem;
@@ -1434,6 +1580,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .rectangle-625-pdM {
   width: 15.3rem;
   height: 13.8rem;
@@ -1444,6 +1591,7 @@ body {
   background-color: #ffffff;
   border-radius: 1rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-626-vwH {
   width: 15.3rem;
   height: 13.8rem;
@@ -1454,6 +1602,7 @@ body {
   background-color: #07a9cf;
   border-radius: 1rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-627-qoM {
   width: 15.3rem;
   height: 13.8rem;
@@ -1464,6 +1613,7 @@ body {
   background-color: #ffffff;
   border-radius: 1rem;
 }
+
 .orden-y-pago-Xx3 .entrega-electrnica-nicamente-gratis-MWo {
   width: 10.7rem;
   height: 7.2rem;
@@ -1477,6 +1627,7 @@ body {
   color: #000000;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .orden-y-pago-Xx3 .entrega-electrnica-nicamente-gratis-Fs5 {
   width: 10.7rem;
   height: 7.2rem;
@@ -1490,6 +1641,7 @@ body {
   color: #ffffff;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .orden-y-pago-Xx3 .entrega-electrnica-nicamente-gratis-m4j {
   width: 10.7rem;
   height: 7.2rem;
@@ -1503,6 +1655,7 @@ body {
   color: #000000;
   font-family: Arimo, 'Source Sans Pro';
 }
+
 .orden-y-pago-Xx3 .ellipse-25-43q {
   width: 2.1rem;
   height: 2.1rem;
@@ -1512,6 +1665,7 @@ body {
   background-color: #ffffff;
   border-radius: 1.05rem;
 }
+
 .orden-y-pago-Xx3 .ellipse-26-nVd {
   width: 2.1rem;
   height: 2.1rem;
@@ -1521,6 +1675,7 @@ body {
   background-color: #07a9cf;
   border-radius: 1.05rem;
 }
+
 .orden-y-pago-Xx3 .ellipse-27-v63 {
   width: 2.1rem;
   height: 2.1rem;
@@ -1530,6 +1685,7 @@ body {
   background-color: #07a9cf;
   border-radius: 1.05rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-628-T5y {
   width: 55.1rem;
   height: 32.4rem;
@@ -1540,6 +1696,7 @@ body {
   background-color: #ffffff;
   border-radius: 1rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-641-mcT {
   width: 55.1rem;
   height: 29.1rem;
@@ -1550,6 +1707,7 @@ body {
   background-color: #ffffff;
   border-radius: 1rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-637-V2f {
   width: 55.1rem;
   height: 28.5rem;
@@ -1560,6 +1718,7 @@ body {
   background-color: #ffffff;
   border-radius: 1rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-629-QfR {
   width: 13.3rem;
   height: 3.2rem;
@@ -1569,6 +1728,7 @@ body {
   background-color: rgba(7, 169, 207, 0.5);
   border-radius: 0.5rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-633-YWj {
   width: 34.5rem;
   height: 3.2rem;
@@ -1578,6 +1738,7 @@ body {
   background-color: #e6e6e6;
   border-radius: 0.5rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-634-5mZ {
   width: 34.5rem;
   height: 3.2rem;
@@ -1587,6 +1748,7 @@ body {
   background-color: #e6e6e6;
   border-radius: 0.5rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-635-RKd {
   width: 34.5rem;
   height: 3.2rem;
@@ -1596,6 +1758,7 @@ body {
   background-color: #e6e6e6;
   border-radius: 0.5rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-636-xqM {
   width: 34.5rem;
   height: 3.2rem;
@@ -1605,6 +1768,7 @@ body {
   background-color: #e6e6e6;
   border-radius: 0.5rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-630-W6B {
   width: 13.3rem;
   height: 3.2rem;
@@ -1614,6 +1778,7 @@ body {
   background-color: rgba(7, 169, 207, 0.5);
   border-radius: 0.5rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-631-2aK {
   width: 13.3rem;
   height: 3.2rem;
@@ -1623,6 +1788,7 @@ body {
   background-color: rgba(7, 169, 207, 0.5);
   border-radius: 0.5rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-632-wxB {
   width: 13.2rem;
   height: 3.2rem;
@@ -1632,6 +1798,7 @@ body {
   background-color: rgba(7, 169, 207, 0.5);
   border-radius: 0.5rem;
 }
+
 .orden-y-pago-Xx3 .servicio--Ux7 {
   width: 7.3rem;
   height: 1.8rem;
@@ -1648,6 +1815,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .cantidad--PJP {
   width: 7.4rem;
   height: 1.8rem;
@@ -1664,6 +1832,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .precio--tkw {
   width: 5.5rem;
   height: 1.8rem;
@@ -1680,6 +1849,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .subtotal--bQT {
   width: 7rem;
   height: 1.8rem;
@@ -1696,6 +1866,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .servicios-ug3 {
   width: 14.3rem;
   height: 5.4rem;
@@ -1709,6 +1880,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .metodo-de-pago-1j5 {
   width: 24.8rem;
   height: 5.4rem;
@@ -1722,6 +1894,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .necesita-traducir-archivos-o-documentos-adicionales-Kjm {
   width: 42.6rem;
   height: 5.4rem;
@@ -1735,6 +1908,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .rectangle-638-qCK {
   width: 43.7rem;
   height: 18rem;
@@ -1746,6 +1920,7 @@ body {
   background-color: #ffffff;
   border-radius: 1.5rem;
 }
+
 .orden-y-pago-Xx3 .subir-archivos-Lum {
   width: 16.7rem;
   height: 5.4rem;
@@ -1760,6 +1935,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .ellipse-28-TDh {
   width: 7rem;
   height: 7rem;
@@ -1769,6 +1945,7 @@ body {
   background-color: rgba(0, 0, 0, 0.200000003);
   border-radius: 3.5rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-639-aJK {
   width: 0.8rem;
   height: 2.5rem;
@@ -1778,6 +1955,7 @@ body {
   background-color: rgba(7, 169, 207, 0.5);
   border-radius: 1.6rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-640-uLb {
   width: 2.5rem;
   height: 0.7rem;
@@ -1787,6 +1965,7 @@ body {
   background-color: rgba(7, 169, 207, 0.5);
   border-radius: 2.3rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-642-RZq {
   width: 28.5rem;
   height: 3.8rem;
@@ -1796,6 +1975,7 @@ body {
   background-color: #07a9cf;
   border-radius: 5rem;
 }
+
 .orden-y-pago-Xx3 .rectangle-643-m7u {
   width: 28.5rem;
   height: 3.8rem;
@@ -1806,6 +1986,7 @@ body {
   background-color: #ffffff;
   border-radius: 5rem;
 }
+
 .orden-y-pago-Xx3 .tarjeta-de-credito-o-debito-H6F {
   width: 19.9rem;
   height: 5.4rem;
@@ -1819,6 +2000,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .paypal-BxK {
   width: 5.3rem;
   height: 5.4rem;
@@ -1832,6 +2014,7 @@ body {
   font-family: Arimo, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .orden-y-pago-Xx3 .rectangle-645-7LB {
   width: 9rem;
   height: 9rem;
@@ -1842,6 +2025,7 @@ body {
   background-color: #ffffff;
   border-radius: 1.8rem;
 }
+
 .orden-y-pago-Xx3 .path1869-pkP {
   width: 1.5rem;
   height: 1.5rem;
@@ -1851,6 +2035,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1867-xrb {
   width: 0.9rem;
   height: 0.9rem;
@@ -1860,6 +2045,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1865-hpB {
   width: 0.9rem;
   height: 1rem;
@@ -1869,6 +2055,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .orden-y-pago-Xx3 .path1863-3d9 {
   width: 8.1rem;
   height: 3.9rem;
