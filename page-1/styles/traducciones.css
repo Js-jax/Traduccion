@@ -1714,11 +1714,68 @@ body {
   font-size: 1.5738rem;
   font-weight: 400;
   line-height: 1.1725;
-  color: #ffffff;
+  color: #000000;
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
+
+/*  */
+a.boton {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 10px;
+  display: inline-block;
+  margin: 15px 20%;
+  text-decoration: none;
+  color: #000000;
+  font-family: arimo;
+  padding: 20px 40px;
+  border: 2px solid #fff;
+  border-radius: 5px;
+  position: relative;
+  overflow: hidden;
+  transition: all ease 400ms;
+  -webkit-transition: all ease 400ms;
+  -moz-transition: all ease 400ms;
+  -ms-transition: all ease 400ms;
+}
+
+a.boton span {
+  display: block;
+  position: absolute;
+  background: #E91E63;
+  font-family: arimo;
+  transition: all ease 400ms;
+  -webkit-transition: all ease 400ms;
+  -moz-transition: all ease 400ms;
+  -ms-transition: all ease 400ms;
+  z-index: -1;
+}
+
+a.boton span.top {
+  left: 0;
+  top: -50%;
+  right: 0;
+  bottom: 100%;
+  border-radius: 50%;
+}
+
+a.boton:hover {
+  color: #fff;
+  border: 2px solid #1ec0e9;
+
+}
+
+a.boton:hover span.top {
+  top: 0;
+  bottom: 0;
+  border-radius: 0;
+}
+
+
+/*  */
 
 .traducciones-u2F .auto-group-p4rb-fqh .group-44-ejZ .auto-group-happ-kJ3 .normal-hover-G5M {
   width: 12.7372rem;
